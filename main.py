@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-API_TOKEN = "7843347487:AAGsgG_EjVmy2UD71cfXJKQZFFeueLzWPE4"  # O'zingizning bot tokeningizni shu yerga yozing
+API_TOKEN = "7843347487:AAESFJWi48z8xYnsfbuDpr6YzGgXcwQcxiw"  # O'zingizning bot tokeningizni shu yerga yozing
 
 bot = telebot.TeleBot(API_TOKEN)
 
